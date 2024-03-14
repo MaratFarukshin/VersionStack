@@ -1,0 +1,14 @@
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\bin\Debug\net7.0\VersionStack.exe
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\bin\Debug\net7.0\VersionStack.deps.json
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\bin\Debug\net7.0\VersionStack.runtimeconfig.json
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\bin\Debug\net7.0\VersionStack.dll
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\bin\Debug\net7.0\VersionStack.pdb
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\obj\Debug\net7.0\VersionStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\obj\Debug\net7.0\VersionStack.AssemblyInfoInputs.cache
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\obj\Debug\net7.0\VersionStack.AssemblyInfo.cs
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\obj\Debug\net7.0\VersionStack.csproj.CoreCompileInputs.cache
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\obj\Debug\net7.0\VersionStack.dll
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\obj\Debug\net7.0\refint\VersionStack.dll
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\obj\Debug\net7.0\VersionStack.pdb
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\obj\Debug\net7.0\VersionStack.genruntimeconfig.cache
+C:\VersoinStack\hw-20240229-versionedstack-MaratFarukshin\VersionStack\VersionStack\obj\Debug\net7.0\ref\VersionStack.dll
